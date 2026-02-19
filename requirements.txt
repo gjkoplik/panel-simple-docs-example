@@ -1,2 +1,6 @@
 panel
 jupyter
+hvplot
+hvsampledata
+matplotlib
+param
